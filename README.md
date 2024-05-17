@@ -16,9 +16,7 @@ Excel
 Tableau
 Power BI
 Python
-
-💻 Tech Stack:
-Python MicrosoftSQLServer NumPy Pandas Apache Postgres scikit-learn SciPy Anaconda Canva
+Wordpress Web design
 
 <!---
 zinotheanalyst/zinotheanalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
