@@ -35,7 +35,7 @@ JavaScript - Currently learning and practicing</p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://x.com/justcallmezino"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://instagram.com/justcallmezino"><img width="32px" alt="Instagram" title="Instagram" src="https://imgur.com/gallery/WL5l49J"/></a>
+<a href="https://instagram.com/justcallmezino"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/SYV5OH5.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="#" alt="Discord" title=""><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
